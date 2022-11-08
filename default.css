@@ -1,0 +1,36 @@
+body{
+    background-color: #CCCCFF; 
+text-decoration-color: ;
+  
+}
+
+mark{
+    background-color: white;
+
+}
+
+p{
+    font-family: 'Bebas Neue', cursive;
+    font-size: x-large;
+}
+
+#par1{
+    position: absolute; top: 50px; left: 400px; 
+    background-color: peachpuff; 
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: palevioletred; 
+    opacity: 1.0; 
+}
+
+/* unvisited link */
+a:link {
+    color: grey;
+}
+
+/* visited link */
+a:visited {
+    color: pink;
+}
