@@ -1,9 +1,12 @@
 body{
+    position: absolute;
     background-image: url("playercorkboard.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
   
 }
+
+
 
 mark{
     background-color: whitesmoke;
